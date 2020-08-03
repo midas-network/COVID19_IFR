@@ -17,9 +17,10 @@ Ongoing community-based review of IFR estimates for COVID-19
 ## Study Review Status
 Each entry links to a study details page for review.
 
-| Study | Description | Study Population | Age Group | Country | Time Period | Review Status |
-|---|---|---|---|---|---|---|
-| [Bendavid et al., MedRXiv Apr 30, 2020](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v2) | IFR estimated from infections detected through sero-survey in Santa Clara County, CA, and deaths reported by public health surveillance | General population | All ages | United States | 2020-04-03 - 2020-04-22 | None completed |
+| Study | Title |Description | Study Population | Age Group | Country | Time Period | Review Status |
+|---|---|---|---|---|---|---|---|
+| [Bendavid et al., MedRXiv Apr 30, 2020](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v2) | COVID-19 Antibody Seroprevalence in Santa Clara County, California | IFR estimated from infections detected through sero-survey in Santa Clara County, CA, and deaths reported by public health surveillance | General population | All ages | United States | 2020-04-03 - 2020-04-22 | None completed |
+| [Russell et al., Eurosurveillance Mar 26, 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.12.2000256#html_fulltext) |Estimating the infection and case fatality ratio for coronavirus disease (COVID-19) using age-adjusted data from the outbreak on the Diamond Princess cruise ship, February 2020 |---|---|---|---|---|None completed|
 
 
 
