@@ -13,6 +13,8 @@ We invite any MIDAS member to contribute to the reviews. The [MIDAS Coordination
 
 All IFR estimates found in the published literature are listed below, with their review status. Please select studies that need review to complete it. Studies listed below link to study details that can help with the review. Completed reviews will be posted on the study detail pages. 
 
+[List of studies ready to review.](https://github.com/midas-network/COVID19_IFR/wiki)
+
 If you find relevant studies that are not listed below, please add them by editing this Readme file or submit an [issue](https://github.com/midas-network/COVID19_IFR/issues). 
 
 ## Endorsed IFR Estimates (All ages)
