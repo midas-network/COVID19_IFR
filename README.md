@@ -36,12 +36,12 @@ Each entry links to a study details page for review.
 
 | Study | Title |Description | Review Status |
 |---|---|---|---|
-| [Bendavid et al., MedRXiv Apr 30, 2020](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v2) | COVID-19 Antibody Seroprevalence in Santa Clara County, California.| IFR estimated from infections detected through sero-survey in Santa Clara County, CA, and deaths reported by public health surveillance.| Needs review |
+| [Bendavid et al., MedRXiv Apr 30, 2020](https://github.com/midas-network/COVID19_IFR/wiki/Bendavid_MedRXiv_2020-04-03) | COVID-19 Antibody Seroprevalence in Santa Clara County, California.| IFR estimated from infections detected through sero-survey in Santa Clara County, CA, and deaths reported by public health surveillance.| Needs review |
 | [Russell et al., Eurosurveillance Mar 26, 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.12.2000256#html_fulltext) |Estimating the infection and case fatality ratio for coronavirus disease (COVID-19) using age-adjusted data from the outbreak on the Diamond Princess cruise ship, February 2020.|---|In preparation|
 |[Salje et al., Science Jul 20, 2020](https://science.sciencemag.org/content/369/6500/208)|Estimating the burden of SARS-CoV-2 in France|---|In preparation|
 |[Roques et al., Biology May 8, 2020](https://www.mdpi.com/2079-7737/9/5/97)|Using Early Data to Estimate the Actual Infection Fatality Ratio from COVID-19 in France.|---|In preparation|
 |[Ferguson et al., Imperial College Report 9 March 16, 2020](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-9-impact-of-npis-on-covid-19/)|Report 9 - Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand.|---|In preparation|
-|[Basset, MedRXiv, Apr 27, 2020](https://www.medrxiv.org/content/10.1101/2020.04.22.20076026v1)|Strict Lower Bound on the COVID-19 Fatality Rate in Overwhelmed Healthcare Systems.|---|In preparation|
+|[Basset, MedRXiv, Apr 27, 2020](https://github.com/midas-network/COVID19_IFR/wiki/Basset,-MedRXiv,-Apr-27,-2020)|Strict Lower Bound on the COVID-19 Fatality Rate in Overwhelmed Healthcare Systems.|---|In preparation|
 |[Streeck et al., MedRXiv, June 2, 2020](https://www.medrxiv.org/content/10.1101/2020.05.04.20090076v2)|Infection fatality rate of SARS-CoV-2 infection in a German community with a super-spreading event.|---|In preparation|
 |[Verity et al., Lancet ID, March 30, 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)|Estimates of the severity of coronavirus disease 2019: a model-based analysis.|---|In preparation|
 |[Jung et al.,J. Clin. Med. Feb 14, 2020](https://www.mdpi.com/2077-0383/9/2/523/htm)|Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases.|---|In preparation|
