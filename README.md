@@ -1,5 +1,11 @@
-# COVID19_IFR
-MIDAS Consensus Range for COVID-19 Infection Fatality Rates
+<img src="docs/MIDAS-4.png" align="right" width=500/>
+
+
+# MIDAS Community Review of COVID-19 IFR Estimates
+The MIDAS community aims to establish a scientifically grounded range of values for COVID-19 Infection Fatality Rates (IFR). Many publications list IFR estimates, but not all are based on rigorous scientific methods and data sources. The MIDAS Coordination Center will list published IFR estimates in this repository and is asking community members to review published estimates for strengths and weaknesses. Based on community reviews, a range of endoresed IFR estimates will be produced in this repository. 
+
+
+
 
 Ongoing community-based review of IFR estimates for COVID-19
 
