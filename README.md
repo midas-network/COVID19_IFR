@@ -8,8 +8,12 @@ The community IFR review will start informally. When the data allow, we will tra
 
 All data and information from this repository can be used under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode), which allows re-use of the data with appropriate attribution. 
 
-## Reviewers
+## Reviews
 We invite any MIDAS member to contribute to the reviews. The [MIDAS Coordination Center](https://midasnetwork.us/mcc/) may invite reviewers as needed. If you are not a MIDAS member, but your work is in alignment with the MIDAS [mission](https://midasnetwork.us/mission/) and [vision](https://midasnetwork.us/about/), feel free to [request membership](https://midasnetwork.us/midas-membership/) or contribute to the reviews as non-member. 
+
+All IFR estimates found in the published literature are listed below, with their review status. Please select studies that need review to complete it. Studies listed below link to study details that can help with the review. 
+
+If you find relevant studies that are not listed below, please add them by editing this Readme file or submit an [issue](https://github.com/midas-network/COVID19_IFR/issues). 
 
 ## Endorsed IFR Estimates (All ages)
 |Population | Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
