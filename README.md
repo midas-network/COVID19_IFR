@@ -1,23 +1,25 @@
-<img src="docs/MIDAS-4.png" align="right" width=500/>
+<img src="MIDAS-4.png" align="right" width=500/>
 
 
 # MIDAS Community Review of COVID-19 IFR Estimates
-The MIDAS community aims to establish a scientifically grounded range of values for COVID-19 Infection Fatality Rates (IFR). Many publications list IFR estimates, but not all are based on rigorous scientific methods and data sources. The MIDAS Coordination Center will list published IFR estimates in this repository and is asking community members to review published estimates for strengths and weaknesses. Based on community reviews, a range of endoresed IFR estimates will be produced in this repository. 
+The [MIDAS community](https://midasnetwork.us/) aims to establish a scientifically grounded range of values for COVID-19 Infection Fatality Rates (IFR). Many publications list IFR estimates, but not all are based on rigorous scientific methods and data sources. The [MIDAS Coordination Center](https://midasnetwork.us/mcc/) will list published IFR estimates in this repository and is asking community members to review published estimates for strengths and weaknesses. Based on community reviews, a range of endoresed IFR estimates will be produced in this repository. 
 
+The community IFR review will start informally. When the data allow, we will transition and formalize the project into an ongoing meta-analysis of IFR estimates. This project depends on community members for review of published estimates and all reviewers will be acknowledged and included as co-authors in any publications that would result from this project. 
 
+All data and information from this repository can be used under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode), which allows re-use of the data with appropriate attribution. 
 
-
-Ongoing community-based review of IFR estimates for COVID-19
+## Reviewers
+We invite any MIDAS member to contribute to the reviews. The [MIDAS Coordination Center](https://midasnetwork.us/mcc/) may invite reviewers as needed. If you are not a MIDAS member, but your work is in alignment with the MIDAS [mission](https://midasnetwork.us/mission/) and [vision](https://midasnetwork.us/about/), feel free to [request membership](https://midasnetwork.us/midas-membership/) or contribute to the reviews as non-member. 
 
 ## Endorsed IFR Estimates (All ages)
 |Population | Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|
-|test | US | 2020-01-01 - 2020-05-09 | 0.01 | 0.00-0.02 | Ref |
+|No estimate endorsed yet | --- | ---| ---| --- | --- |
 
 ## Endorsed IFR Estimates (Age specific)
 |Population | Age Group| Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|---|
-|test |0-5 |US | 2020-01-01 - 2020-05-09 | 0.01 | 0.00-0.02 | Ref |
+|No estimate endorsed yet | --- | ---| ---| --- | --- |--- |
 
 
 ## Study Review Status
