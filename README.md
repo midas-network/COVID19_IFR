@@ -56,8 +56,8 @@ Each entry links to a study details page for review.
 |[Shakiba et al., MedRXiv. May 1, 2020](https://www.medrxiv.org/content/10.1101/2020.04.26.20079244v1)|Seroprevalence of COVID-19 virus infection in Guilan province, Iran|Estimated seroprevalence from serosurvey conducted in household samples and extrapolated to population to estimate infection fatality ratio.|In preparation|
 |[Modi et al., MedRXiv. May 14, 2020](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3)|How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in Italy.|Combine population fatality rate with test positivity rate to estimate the infection fatality rate.|In preparation|
 |[Snoeck et al., MedRXiv. May 18, 2020](https://www.medrxiv.org/content/10.1101/2020.05.11.20092916v1)|Prevalence of SARS-CoV-2 infection in the Luxembourgish population: the CON-VINCE study.|Performed representative serosample on the Luxembourg population and estimated infection fatality rate from results.|In preparation|
-|[Wu et al., Medical Virology. April 20, 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25904)|Serological tests facilitate identification of asymptomatic SARS‐CoV‐2 infection in Wuhan, China.|---|In preparation|
-|[Menachemi et al., MMWR. July 24, 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6929e1.htm)|Population Point Prevalence of SARS-CoV-2 Infection Based on a Statewide Random Sample — Indiana, April 25–29, 2020.|---|In preparation|
+|[Wu et al., Medical Virology. April 20, 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25904)|Serological tests facilitate identification of asymptomatic SARS‐CoV‐2 infection in Wuhan, China.|A letter to the editor reporting results from COVID-19 testing in a hospital in Qingshan District, Wuhan.|In preparation|
+|[Menachemi et al., MMWR. July 24, 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6929e1.htm)|Population Point Prevalence of SARS-CoV-2 Infection Based on a Statewide Random Sample — Indiana, April 25–29, 2020.|Infection fatality ratio is estimated based on a random sample of seroprevalence in Indiana, USA.|In preparation|
 
 
 
