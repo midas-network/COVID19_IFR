@@ -2,7 +2,7 @@
 
 
 # MIDAS Community Review of COVID-19 IFR Estimates
-The [MIDAS community](https://midasnetwork.us/) aims to establish a scientifically grounded range of values for COVID-19 Infection Fatality Rates (IFR). Many publications list IFR estimates, but not all are based on rigorous scientific methods and data sources. The [MIDAS Coordination Center](https://midasnetwork.us/mcc/) will list published IFR estimates in this repository and is asking community members to review published estimates for strengths and weaknesses. Based on community reviews, a range of endoresed IFR estimates will be produced in this repository. 
+The [MIDAS community](https://midasnetwork.us/) aims to establish a scientifically grounded range of values for COVID-19 Infection Fatality Rates (IFR). Many publications list IFR estimates, but not all are based on rigorous scientific methods and data sources. The [MIDAS Coordination Center](https://midasnetwork.us/mcc/) will list published IFR estimates in this repository and is asking community members to review published estimates for strengths and weaknesses. 
 
 The community IFR review will start informally. When the data allow, we will transition and formalize the project into an ongoing meta-analysis of IFR estimates. This project depends on community members for review of published estimates and all reviewers will be acknowledged and included as co-authors in any publications that would result from this project. 
 
@@ -17,12 +17,15 @@ All IFR estimates found in the published literature are listed below, with their
 
 If you find relevant studies that are not listed below, please add them by editing this Readme file or submit an [issue](https://github.com/midas-network/COVID19_IFR/issues). 
 
-## Endorsed IFR Estimates (All ages)
+## Disclaimer
+Disclaimer pending. 
+
+## IFR Estimates evaluated as high-quality by the MIDAS community (All ages)
 |Population | Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|
 |No estimate endorsed yet | --- | ---| ---| --- | --- |
 
-## Endorsed IFR Estimates (Age specific)
+## IFR Estimates evaluated as high-quality by the MIDAS community  (Age specific)
 |Population | Age Group| Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|---|
 |No estimate endorsed yet | --- | ---| ---| --- | --- |--- |
