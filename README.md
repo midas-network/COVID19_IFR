@@ -23,12 +23,12 @@ Disclaimer pending.
 ## IFR Estimates evaluated as high-quality by the MIDAS community (All ages)
 |Population | Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|
-|No estimate endorsed yet | --- | ---| ---| --- | --- |
+|No estimate reviewed yet | --- | ---| ---| --- | --- |
 
 ## IFR Estimates evaluated as high-quality by the MIDAS community  (Age specific)
 |Population | Age Group| Country | Time Period | IFR Point Estimate | IFR Uncertainty range | Study |
 |---|---|---|---|---|---|---|
-|No estimate endorsed yet | --- | ---| ---| --- | --- |--- |
+|No estimate reviewed yet | --- | ---| ---| --- | --- |--- |
 
 
 ## Study Review Status
