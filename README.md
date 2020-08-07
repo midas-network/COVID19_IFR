@@ -60,6 +60,7 @@ Each entry links to a study details page for review.
 |[Modi et al., MedRXiv. v.3 May 14, 2020](https://github.com/midas-network/COVID19_IFR/wiki/Modi-et-al.,-MedRXiv.-v.3-May-14,-2020)|How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in Italy.|Combine population fatality rate with test positivity rate to estimate the infection fatality rate.|Needs review|
 |[Menachemi et al., MMWR. July 24, 2020](https://github.com/midas-network/COVID19_IFR/wiki/Menachemi-et-al.,-MMWR.-July-24,-2020)|Population Point Prevalence of SARS-CoV-2 Infection Based on a Statewide Random Sample — Indiana, April 25–29, 2020.|Infection fatality ratio is estimated based on a random sample of seroprevalence in Indiana, USA.|Needs review|
 |[Hauser et al., PLoS Medicine, July 28, 2020](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003189)|Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: A modeling study in Hubei, China, and six regions in Europe|Use an age-stratified SEIR model to compare transmission dynamics in different regions of the world, including IFR.|In preparation|
+|[Feehan et al., EID, July 30, 2020](https://wwwnc.cdc.gov/eid/article/26/11/20-3029_article)|Seroprevalence of SARS-CoV-2 and Infection Fatality Ratio, Orleans and Jefferson Parishes, Louisiana, USA, May 2020|A census-weighted seroprevalence study used to determine the true infection rate and the infection fatality ratio in Louisiana.|In preparation|
 
 
 
